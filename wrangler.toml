@@ -1,0 +1,7 @@
+name = "notes-worker"
+main = "worker.js"
+compatibility_date = "2025-09-12"
+
+[[kv_namespaces]]
+binding = "NOTES_KV"
+id = "a34c36d2893549108afb3686d2e3e0cf"
